@@ -1,0 +1,1 @@
+Create SVG file and store it in Mapper, and then run the APP.
